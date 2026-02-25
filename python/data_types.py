@@ -1,9 +1,8 @@
 # This is my first Python Script
-´´´
+'''
     Developer: Jader M. Leyton
-    Description: This script let us understand how to is data types.
-´´´
-
+    Description: This script let us understand how to is data types
+'''
 print("hello everyone. welcome to data types class")
 
 age = 17
